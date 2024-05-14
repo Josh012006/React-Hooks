@@ -1,0 +1,9 @@
+#addForm {
+    width: 85vw;
+}
+
+@media screen and (min-width: 992px) {
+    #addForm {
+        width: 35vw;
+    }
+}
